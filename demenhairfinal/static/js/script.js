@@ -430,7 +430,7 @@ function link() {
     btn.setAttribute('href', '#')
 
   } else {
-    btn.setAttribute('href', 'qualify.html')
+    btn.setAttribute('href', '#')
 
   }
 }
